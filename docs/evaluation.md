@@ -3,7 +3,7 @@ layout: default
 title: Evaluation
 nav_order: 2
 description: "Evaluation details."
-permalink: /docs/evaluation
+permalink: /evaluation
 ---
 
 # Evaluation

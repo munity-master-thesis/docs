@@ -3,7 +3,7 @@ layout: default
 title: Architecture
 nav_order: 4
 description: "Architecture details."
-permalink: /docs/architecture
+permalink: /architecture
 has_children: true
 ---
 
