@@ -3,7 +3,7 @@ layout: default
 title: Home
 nav_order: 1
 description: "Documentation for Munity mobile App."
-permalink: /home
+permalink: /
 ---
 
 # Documentation

@@ -3,7 +3,7 @@ layout: default
 title: Design
 nav_order: 3
 description: "Design details."
-permalink: /docs/design
+permalink: /design
 ---
 
 
@@ -73,4 +73,4 @@ Create a **M**ovies Comm**unity**!
 ## <a id="mock"></a>Mockup
 
 {: .note }
-> Mockups for the moment are still private, contact _fabio.caputo996@gmail.com_ for schedule an appointment to check them together.
+> Mockups for the moment are still private, please contact _fabio.caputo996@gmail.com_ for schedule an appointment to check them together.
