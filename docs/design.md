@@ -10,7 +10,7 @@ permalink: /design
 # Design
 {: .fs-9 }
 
-In this document, we will approach the product from the user's point of view, leaving aside all the technical information. Indeed, here we want to emphasize the *"product design"* methodologies we have used to build the idea, and how these directly influenced the final product.
+In this document, we will approach the product from the user's point of view, leaving aside all the technical information. Indeed, here we want to emphasize the *"product design"* and planning methodologies we have used to build the idea, and how these directly influenced the final product.
 {: .fs-6 .fw-300 }
 
 --- 
@@ -65,12 +65,13 @@ Create a **M**ovies Comm**unity**!
 {: .warning }
 > User personas are still not completed, I will upload them as soon as possible.
 
-## <a id="story"></a>Storyboards
+## <a id="story"></a>Storyboard
 
-{: .warning }
-> The storyboard are still not completed, I will upload them as soon as possible.  
+<p align="center">
+  <img src="{{site.baseurl}}/assets/images/Storyboard.png" height="480" width="640"  style="border-radius:3%"/>
+</p>
 
 ## <a id="mock"></a>Mockup
 
 {: .note }
-> Mockups for the moment are still private, please contact _fabio.caputo996@gmail.com_ for schedule an appointment to check them together.
+> Mockups for the moment are still private, please contact me at "_fabio.caputo996@gmail.com_" to schedule an appointment.

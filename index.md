@@ -33,9 +33,9 @@ This document provides details on the technical aspects of the product, includin
 > This website documents the features of the current `main` branch of Munity. See the [CHANGELOG] for a list of releases, new features, and bug fixes. 
 
 
-[Design]: ./Design.md
 [Repo]: https://c.tenor.com/SeBpVGIsjlEAAAAd/nope-the-office.gif
-[Evaluation]: ./Evaluation.md
-[Architecture]: ./Architecture.md
+[Design]: {{site.baseurl}}/design
+[Evaluation]: {{site.baseurl}}/evaluation
+[Architecture]: {{site.baseurl}}/architecture
 [Fabio Caputo]: https://www.linkedin.com/in/fabio-caputo-41163b171
 [CHANGELOG]: https://github.com/munity-master-thesis.github.io/docs

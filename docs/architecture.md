@@ -47,7 +47,7 @@ It is an open-source application available on our git repository and provided as
 
 Microservices are a style of service-oriented architecture (SOA) where the app is structured on an assembly of interconnected services. With microservices, the application architecture is built with lightweight protocols. The services are finely seeded in the architecture. Microservices disintegrate the app into smaller services and enable improved modularity. 
 
-Compared to its predecessor, the monolithic architecture, microservices are hands down more beneficial. 
+Compared to its predecessor, the monolithic architecture, microservices are hands down more beneficial. Those services can scale with ease and reduce the effort and time for new resurces to be ready to implement new services or maintain the system.
 
 {: .note }
 > This section is still not completed.
