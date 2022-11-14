@@ -68,7 +68,7 @@ Create a **M**ovies Comm**unity**!
 ## <a id="story"></a>Storyboard
 
 <p align="center">
-  <img src="{{site.baseurl}}/assets/images/Storyboard.png" height="480" width="640"  style="border-radius:3%"/>
+  <img src="{{site.baseurl}}/assets/images/StoryBoard.png" height="480" width="640"  style="border-radius:3%"/>
 </p>
 
 ## <a id="mock"></a>Mockup
