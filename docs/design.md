@@ -66,11 +66,35 @@ Create a **M**ovies Comm**unity**!
 > User personas are still not completed, I will upload them as soon as possible.
 
 ## <a id="story"></a>Storyboard
+Here's an example of a Storyboard that illustrate how to use the main features of Munity.
 
 <p align="center">
-  <img src="{{site.baseurl}}/assets/images/StoryBoard.png" height="480" width="640"  style="border-radius:3%"/>
+  <img src="{{site.baseurl}}/assets/images/StoryBoard.png" style="border-radius:3%"/>
 </p>
 
+--- 
+
+### Home Page
+
+<p align="center">
+  <img src="{{site.baseurl}}/assets/images/home_storyb.png" style="border-radius:3%"/>
+</p>
+
+--- 
+
+### WatchLists & World Pages
+
+<p align="center">
+  <img src="{{site.baseurl}}/assets/images/world_watchlists_storyb.png"  style="border-radius:3%"/>
+</p>
+
+--- 
+
+### Notifications & Profile Pages
+
+<p align="center">
+  <img src="{{site.baseurl}}/assets/images/profile_notifications.png" style="border-radius:3%"/>
+</p>
 ## <a id="mock"></a>Mockup
 
 {: .note }
